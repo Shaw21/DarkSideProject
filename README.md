@@ -1,4 +1,4 @@
 DarkSideProject
 ===============
 
-First Project for EAE-3660. Machinima creation of the Original lightsaber fight.
+First Project for The Dark Side group (Machinima creation of the Original Lightsaber fight).
